@@ -1,0 +1,11 @@
+{
+  "name": "elm-family-tree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tgiachett/elm-family-tree.git",
+  "author": "tgiachett <31292513+tgiachett@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yarn": "^1.9.4"
+  }
+}
